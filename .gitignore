@@ -143,10 +143,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-<<<<<<< HEAD
 envLangChain/
-=======
->>>>>>> 7045153c61e1f2190fb46b4771023995a76c6429
 
 # Spyder project settings
 .spyderproject
